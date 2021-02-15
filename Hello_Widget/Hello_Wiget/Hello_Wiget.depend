@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514140570 source:c:\users\administrator\documents\code_blocks\hello_widget\hello_wiget\resource.rc
+	"wx/msw/wx.rc"
+
+1595413206 c:\wxwidgets-3.1.4\include\wx\msw\wx.rc
+	<windows.h>
+	"wx/msw/rcdefs.h"
+
+1595413206 c:\wxwidgets-3.1.4\include\wx\msw\rcdefs.h
+
